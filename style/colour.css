@@ -23,7 +23,7 @@ blockquote
 }
 
 #links a, #footer a, #links a:hover, #footer a:hover
-{ background: transparent;
+{ //background: transparent;
   color: #D1D3D7;
 }
 

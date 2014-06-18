@@ -272,3 +272,14 @@ input, textarea
   cursor: pointer;
   font-size: 100%;
 }
+
+a.weixin_cn 
+{ width:23px; 
+	height:26px; 
+	//background-position:0 0; 
+	margin-right:18px; 
+	position:relative; 
+	z-index:100000;
+	float:left; 
+	background:url(http://www.huawei.com/cn/ucmf/groups/public/documents/webasset/hw_u_318350.png) no-repeat; 
+	display:block;}
